@@ -25,6 +25,7 @@ public class ArrayStringExample {
         int iArrayCount = 0;
         
         //CODE
+        int x = 6;
         
         //INPUT
        do
