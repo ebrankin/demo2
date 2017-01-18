@@ -15,4 +15,13 @@ public class TestClass {
 		return b;
 		
 	}
+	
+	public double Max (String a , String b)
+	{
+		double n1 = Double.parseDouble(a);
+		double n2 = Double.parseDouble(b);
+		if (n1 > n2) { return n1;}
+		return n2;
+		
+	}
 }
