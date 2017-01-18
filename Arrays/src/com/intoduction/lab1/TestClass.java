@@ -16,6 +16,15 @@ public class TestClass {
 		
 	}
 	
+	
+	////////////////SDFDSF
+	////////////SDFDAF
+	public int fn1(int a)
+	{
+		return 45;
+	}
+	
+	
 	public double Max (String a , String b)
 	{
 		double n1 = Double.parseDouble(a);
