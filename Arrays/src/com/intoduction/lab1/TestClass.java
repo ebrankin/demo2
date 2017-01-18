@@ -24,6 +24,10 @@ public class TestClass {
 		return 45;
 	}
 	
+	public int fn2(int a)
+	{
+		return 45;
+	}
 	
 	public double Max (String a , String b)
 	{
